@@ -2,8 +2,8 @@
 
 # IPG — Intelligent Page Generator for WordPress
 
-![Version](https://img.shields.io/badge/version-2.5.20-blue)
-![WordPress](https://img.shields.io/badge/WordPress-7.0%2B-blue)
+![Version](https://img.shields.io/badge/version-2.5.21-blue)
+![WordPress](https://img.shields.io/badge/WordPress-7.0.1%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
 IPG transforms structured page generation into a modern intelligent workflow system for WordPress.
@@ -228,6 +228,9 @@ Features:
 ---
 
 # 📋 Changelog
+
+## 2.5.21 
+* Updated plugin for WordPress 7.0.1
 
 ## 2.5.20 
 * Improved Preview + Generate interface consistency
