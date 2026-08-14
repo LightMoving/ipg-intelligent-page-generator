@@ -4,7 +4,7 @@ Tags: bulk pages, elementor, bulk posts, duplicate page
 Requires at least: 5.8
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.6.1
+Stable tag: 2.6.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -129,10 +129,11 @@ Yes. IPG — Intelligent Page Generator includes structured workflows designed f
 == Changelog ==
 
 
+= 2.6.3 =
+* Changing documents
 
-
-
-
+= 2.6.2 =
+* Updated layout and minor improvements
 
 = 2.6.1 =
 * Performance Updates

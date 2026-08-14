@@ -3,7 +3,7 @@
  * Plugin Name: IPG — Intelligent Page Generator
  * Plugin URI: https://github.com/Debo Grim/ipg-intelligent-page-generator/
  * Description: Intelligent bulk page generation for Elementor and membership workflows with dynamic variables, previews, rollback, exports, and builder-safe template architecture.
- * Version: 2.6.1
+ * Version: 2.6.3
  * Author: Debo Grim
  * Author URI: https://github.com/Debo Grim/
  * Requires at least: 5.8
@@ -36,7 +36,7 @@ if (!defined('ABSPATH')) {
 }
 
 if (!defined('IPG_INTELLIGENT_PAGE_GENERATOR_VERSION')) {
-    define('IPG_INTELLIGENT_PAGE_GENERATOR_VERSION', '2.6.1');
+    define('IPG_INTELLIGENT_PAGE_GENERATOR_VERSION', '2.6.3');
 }
 
 

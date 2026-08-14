@@ -2,7 +2,7 @@
 
 # IPG — Intelligent Page Generator for WordPress
 
-![Version](https://img.shields.io/badge/version-2.6.1-blue)
+![Version](https://img.shields.io/badge/version-2.6.3-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-7.0.2%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -374,3 +374,9 @@ https://github.com/LightMoving/precision-duplicate/
 # 📄 License
 
 GPL v2 or later
+
+## Changelog
+
+### 2.6.3
+
+Release version 2.6.3
