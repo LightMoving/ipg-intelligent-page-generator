@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IPG — Intelligent Page Generator 2.5.25\n"
+"Report-Msgid-Bugs-To: https://github.com/LightMoving/ipg-intelligent-page-generator/issues\n"
+"POT-Creation-Date: 2026-05-11 06:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ChatGPT\n"
+"X-Domain: ipg-intelligent-page-generator\n"
+
+#: ipg-intelligent-page-generator.php:629
+msgid "Are you sure you want to delete the last generated draft pages? This action only removes draft pages from the most recent generation batch. Published pages will not be deleted."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2920
+msgid "Available Variables:"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2901
+msgid "Choose Range + Patterns to generate numbered pages automatically, or Manual Title List to paste custom page titles."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2929
+msgid "Controls the generated page titles. Example: Day Text {n}. You can also use {prev}, {next}, {range_start}, and {range_end}."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2936
+msgid "Controls the URL slug for each generated page. Example: day-text-{n}. WordPress will automatically clean the final slug."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2655
+msgid "Could not create page for \"%s\"."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2854
+msgid "Created %d draft page(s)."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:638
+msgid "CSV"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:102 ipg-intelligent-page-generator.php:80
+msgid "Duplicate Page"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2912
+msgid "End"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2914
+msgid "Example: 1 to 365 for a full lesson library."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:643
+msgid "Export"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:636
+msgid "Export format"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2598
+msgid "For safety, create no more than 501 pages at a time."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:3006
+msgid "Generate Draft Pages"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2973
+msgid "Generate Map"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2846
+msgid "Generate structured draft pages from one Elementor-safe source page. Use range creation, title patterns, slug patterns, tags, and optional Memberium tag ID mapping for protected membership workflows."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2901
+msgid "Generation Mode"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2970
+msgid "Increment"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:639
+msgid "JSON"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:605
+msgid "Last generation batch:"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2994
+msgid "Manual Page Titles"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2904
+msgid "Manual Title List"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:640
+msgid "Markdown"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2951
+msgid "Memberium Tag ID Map"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2987
+msgid "Menu Order Start"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:4016
+msgid "No matching pages found."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:4312
+msgid "No page selected to duplicate."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:602
+msgid "No recent generation batch is currently available for rollback."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2958
+msgid "Optional helper. Use this when Keap tag IDs are sequential. It fills the editable Memberium Tag ID Map for review before generation."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2943
+msgid "Optional. Adds a sequential WordPress tag to each generated page. Example: Text Day {n} creates Text Day 503, Text Day 504, and so on."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2980
+msgid "Optional. Enter a parent page ID if you want the generated pages placed underneath another page in WordPress."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2954
+msgid "Optional. If blank, Memberium protection is copied exactly from the source page. If filled, this overrides the copied source tag and each generated page receives its mapped Keap tag ID in Memberium Require Tag ID's."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2946
+msgid "Optional. Leave blank to skip tags. Example: Text Day {n}. Missing tags will be created automatically."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2951
+msgid "Optional. Overrides the copied Memberium Require Tag ID for each generated page. Paste one mapping per line, such as 503=10987 or Text Day 503 (10987)."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2987
+msgid "Optional. Sets the first menu order number. Each generated page increases by one."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2983
+msgid "Optional: assign generated pages under an existing parent page."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2990
+msgid "Optional: set a starting menu order for generated pages."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2980
+msgid "Parent Page ID (optional)"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2889
+msgid "Paste the source page URL, numeric page ID, WordPress edit URL, or use AJAX search below."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2565
+msgid "Please enter a valid range. The end number must be greater than or equal to the start number."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2560
+msgid "Please enter a valid source page ID or page URL."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2619
+msgid "Please enter at least one page title."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:370 ipg-intelligent-page-generator.php:371
+msgid "IPG — Intelligent Page Generator"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2691
+msgid "IPG — Intelligent Page Generator: Intelligent Page Generation"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2903
+msgid "Range + Patterns"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2908
+msgid "Range Creation"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:597
+msgid "Recent Generations"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:598
+msgid "Review the most recent generation batch and roll back created draft pages if needed."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:630
+msgid "Rollback Last Generated Pages"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:621
+msgid "Rollback only deletes draft pages from the most recent generation batch. Published pages or changed pages are skipped for safety."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:4046 ipg-intelligent-page-generator.php:4053
+msgid "Search failed. Please try again."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2892
+msgid "Search pages by title or ID..."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2958
+msgid "Sequential Tag Helper"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2936
+msgid "Slug Pattern"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2886
+msgid "Source Page URL or ID"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2910
+msgid "Start"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2962
+msgid "Start Page #"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2966
+msgid "Start Tag ID"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2896
+msgid "Start typing a page title, then click a result to use it as the source page."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2529
+msgid "Successfully deleted %1$d generated draft page(s). %2$d page(s) were skipped because they were no longer drafts."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2943
+msgid "Tag Pattern"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2582
+msgid "The Memberium tag ID map could not be read. Use one line per item, such as 503=10987."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2588
+msgid "The Memberium tag ID map is missing a tag ID for %d."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:4243
+msgid "The page could not be generated."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:4196
+msgid "The selected item is not a valid page."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2573
+msgid "The slug pattern must include at least one variable: {n}, {prev}, {next}, {range_start}, or {range_end}."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2577
+msgid "The tag pattern must include at least one variable: {n}, {prev}, {next}, {range_start}, or {range_end}."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2569
+msgid "The title pattern must include at least one variable: {n}, {prev}, {next}, {range_start}, or {range_end}."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2975
+msgid "This fills the Memberium Tag ID Map using the current range. Review and edit the map before generating pages, especially if Keap tags were created out of sequence."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2886
+msgid "This is the page that will be duplicated. You can paste a public page URL, WordPress edit URL, or numeric page ID."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2929
+msgid "Title Pattern"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:536
+msgid "Unable to create the export file."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:4022
+msgid "Untitled page"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2932
+msgid "Use variables to build each generated title. Example: Workbook Lesson {n}."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2939
+msgid "Use variables to build each generated URL slug. Example: acim-workbook-lesson-{n}."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2997
+msgid "Used only when Manual Title List is selected."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2994
+msgid "Used only with Manual Title List mode. Add one page title per line."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:618
+msgid "View generated page IDs"
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:2496
+msgid "You do not have permission to access this tool."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:4200
+msgid "You do not have permission to duplicate this page."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:460
+msgid "You do not have permission to export generation history."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:383
+msgid "You do not have permission to search pages."
+msgstr ""
+
+#: ipg-intelligent-page-generator.php:610
+msgid "%1$d draft page created on %2$s."
+msgid_plural "%1$d draft pages created on %2$s."
+msgstr[0] ""
+msgstr[1] ""
