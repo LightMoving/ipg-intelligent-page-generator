@@ -229,6 +229,10 @@ Features:
 
 # 📋 Changelog
 
+### 2.6.3
+
+* Changing documents
+
 ### 2.6.1
 
 * Release packaged and verified with WordPress Plugin Publisher.
@@ -374,9 +378,3 @@ https://github.com/LightMoving/precision-duplicate/
 # 📄 License
 
 GPL v2 or later
-
-## Changelog
-
-### 2.6.3
-
-Release version 2.6.3
