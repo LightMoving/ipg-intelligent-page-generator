@@ -2,7 +2,7 @@
 
 # IPG — Intelligent Page Generator for WordPress
 
-![Version](https://img.shields.io/badge/version-2.6.3-blue)
+![Version](https://img.shields.io/badge/version-2.6.4-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-7.0.2%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -228,7 +228,9 @@ Features:
 ---
 
 # 📋 Changelog
+## 2.6.4
 
+Release v2.6.4
 ### 2.6.3
 
 * Changing documents
