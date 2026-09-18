@@ -229,7 +229,7 @@ Features:
 
 # 📋 Changelog
 
-## 2.6.4
+### 2.6.4
 
 * Release v2.6.4
 
